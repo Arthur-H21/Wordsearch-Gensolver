@@ -1,0 +1,32 @@
+The lettermap solution is shown below: (in the blanks)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+V D Z D X S Z E D K Z J B F D L   N C   Y Z O P C V H T S T 
+H K S F E P H I B D D M X W F   P R   P L D S P C E T M Y Q 
+S W E Y B X W X L L R Q E W   Q Y   N D             L C T T 
+R H W M M B E W O K M F G   N C   W V J S O J D V H I F Y A 
+Y Z W C P N A Q I T K E   S V   P Q G N Y R L G Z           
+Y R B N U X Y I M A L   N A   B M   E Y X L Y T F N E C L F 
+                      B V   L F I K   W O U V F T P K Y P H 
+Y U V K I O G J C   U D   E M D R B Q   P X S X G T E U A I 
+V S Z Q Q G P G T R N   J C N G I R R P   C L N T Y G I C U 
+F B C J B H K T E J G J E X B X U M K U Q   Q C Q T Y P B W 
+  P R W K C G L H B O A J R N V U Y M C X K   Z E E F X L M 
+    G Z V S P H D I F F G P Y Q Q U P F J P Q           C Z 
+  Z   Q U C G I J Q F X R Z S G F T L X V L Z U Z T   Y O C 
+  N P   Z D       V O Q Q G Y Y R L L G L C Y M S   W J O V 
+  S M O W N J Y Y B V U X T E T G G G W E A S T   B X M E B 
+  P O O A Q D E O D P D N   O J B R W J M L V   G B D L O U 
+I B   H F O E P H E Y Y M   I S E P R S F P T K Q D Z O X L 
+V Y M   T A D K N N S A F   B H Z K M K Q R D E J K K L N E 
+R D H X   N Q B B Y W X A   E I H S M G G W H J M V R P Y I 
+W F P Z H                   E L J M R U D V X T P V G A P U 
+T B U G L C Q X H M V I Z   O K K R B G G J M W B E S P R B 
+A X Q A A U M X E Y H F N L H O J L D V N M X E R L U Q F O 
+V T S V U N   M O S Q S E D Y G G A D K Y   T R B O I Y G G 
+A X M F Z   P B B I D S   G   M B M Z M M Y   J A D M P F C 
+B Q B C   X Z T X X U   S     B V G H W A Z H   N F B J R X 
+Y V Y   K Z Q B T V   P   L H   B N T L M N U B   Q O R Y R 
+N T   Z V K K E Z   Y   X V Y L   L I M E Q U X Q   G H X L 
+U   C L C Y H F K W   N V Q T F A   O U U G D J H G   W I F 
+  J E S N L D N C T L D D J O H F N   G D E M F W M P   C W 
+W L P G D M C K G R C W Q P M M S S L   W U V E Y F W I W O 
