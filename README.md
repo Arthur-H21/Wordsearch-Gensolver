@@ -24,11 +24,11 @@ An example of the `solve` function: `./wordsearch_gensolve solve wordsearch1`. T
 
 **Solve**: Place the lettermap first in the file (letters can be separated or not separated by a space). On the last line of the file, place the words to be found on a single line, in the same way you would for a `generate` input file. See `wordserach1.txt`
 
-## Output File Formatting.
+## Output File Formatting
 
 **Generate**: The problem file, with the `_wordsearch.txt` appendage, should like exactly like an input `solve` file. The solution file, with the `_wordsearch_solution.txt` appendage, should contain the same lettermap produced, but with blanks where the words are located.
 
-**Solve**: The solution file, with the `_solution.txt` appendage, should contain same lettermap as inputted, but with blanks where the words are located. If not all words could be found, a file with the `_log.txt` will be produced with a solution lettermap containing solved words, and a list of words that could not be found
+**Solve**: The solution file, with the `_solution.txt` appendage, should contain same lettermap as inputted, but with blanks where the words are located. If not all words could be found (or there is an error in your input file), a file with the `_log.txt` will be produced with a solution lettermap containing solved words, and a list of words that could not be found
 
 ## Future improvements
 
